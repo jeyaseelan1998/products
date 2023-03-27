@@ -197,8 +197,7 @@
         "name": "test product555",
         "price": 67.00,
         "tags": ["TRADE D", "test"],
-		"vendor":"Vendor 5",
-	    "discount":0
+		"vendor":"Vendor 5"
     },
     {
         "id": 26,
