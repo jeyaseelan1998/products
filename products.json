@@ -94,7 +94,7 @@
         "price": 172.50,
         "tags": ["TRADE B", "test"],
 		"vendor":"Vendor 4",
-		"discount" : 0
+		"discount" : 10
     },
     {
         "id": 13,
